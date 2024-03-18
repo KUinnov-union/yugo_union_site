@@ -1,3 +1,5 @@
+#https://qiita.com/suzuki-navi/items/c87005eebfe06307fe6a
+
 import http.server
 import sys
 
