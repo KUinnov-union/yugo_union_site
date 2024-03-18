@@ -1,0 +1,15 @@
+body {font-family: Arial;
+    background-color: rgba(81, 134, 145, 0.082);}
+input, textarea {display: block}
+
+input {width: 400px}
+
+input[type="submit"] {width: 200px;
+background-color: rgb(238, 255, 0);
+border:solid 1px #aaaaaa;
+border-radius: 10px;
+padding-top: 10px;
+padding-bottom: 10px}
+
+textarea {width: 600px;
+height: 120px}

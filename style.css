@@ -1,4 +1,24 @@
-h1 {
-  background-color: #0A0;
-}
+body {font-family: Arial;
+background-color: rgb(163, 243, 132);}
+h1 {font-size: 38px;
+width: 900px;
+background-color: rgb(97, 192, 251);
+margin-right: auto;
+margin-top: 0;}
+p {line-height: 1.5}
+/*ヘッダー*/
+header {background-color: aliceblue;
+    width: 900px;
+margin-left: auto;
+margin-right: auto;}
+/*記事*/
+article {background-color: rgb(128, 207, 221);
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 10px 10px #aaaaaa;}
+/*フッター*/
+footer {width: 900px;
+    margin-left: auto;
+margin-right: auto;}
 

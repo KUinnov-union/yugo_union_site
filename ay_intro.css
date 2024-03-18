@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(237, 247, 204);
+}
+
+article {
+    margin-bottom: 40px;
+}
+table,
+th,
+td {
+    border: solid 1px #aaaaaa;
+}
+
+table {
+    border-collapse: collapse;
+    margin-right: auto;
+    /*右の余白*/
+    margin-left: auto;
+    /*左の余白*/
+}
+
+th,
+td {
+    padding: 10px 20px 10px 20px
+        /*セル内の余白*/
+}
+
+th {
+    width: 150px
+        /*セルの大きさ*/
+    ;
+    background-color: #cde68a;
+    /*背景色*/
+    text-align: left;
+    /*左揃え*/
+}
+
+td {
+    width: 450px;
+
+}
+
+h1 {
+    width: 900px;
+    background-color: #cde68a;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+li {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    margin-left: 50px;
+}

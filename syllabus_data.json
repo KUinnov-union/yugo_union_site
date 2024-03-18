@@ -1,0 +1,365 @@
+[
+    {
+        "ya": "1年次",
+        "cores":[
+            {
+                "name": "科学創発コア",
+                "subjects": [
+                    {
+                        "name": "テクノロジー基礎",
+                        "file": "basic-technology"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ya": "2年次",
+        "cores":[
+            {
+                "name": "社会循環コア",
+                "subjects": [
+                    {
+                        "name": "AIと未来社会",
+                        "file": "AI-with-future-society"
+                    },
+                    {
+                        "name": "現代社会を知る",
+                        "file": "know-about-temporaly-society"
+                    },
+                    {
+                        "name": "シェアリングエコノミー",
+                        "file": "sharing-economy"
+                    },
+                    {
+                        "name": "社会変動と労働生産性",
+                        "file": "changing-society-and-productivity"
+                    },
+                    {
+                        "name": "消費生活論",
+                        "file": "consuminglife"
+                    },
+                    {
+                        "name": "超スマートシティとSociety5.0",
+                        "file": "hyper-smart-city-and-society5.0"
+                    },
+                    {
+                        "name": "ファイナンス基礎",
+                        "file": "basic-finance"
+                    },
+                    {
+                        "name": "フィンテック基礎とビジネス応用",
+                        "file": "basic-fintech-and-using-business"
+                    },
+                    {
+                        "name": "倫理学",
+                        "file": "ethics"
+                    }
+                ]
+            },
+            {
+                "name": "世界共創コア",
+                "subjects": [
+                    {
+                        "name": "SDGs基礎",
+                        "file": "basic-SDGs"
+                    },
+                    {
+                        "name": "異文化理解とキャリア開発",
+                        "file": "understand-culture-and-develop-career"
+                    },
+                    {
+                        "name": "グローバリゼーション",
+                        "file": "globalization"
+                    },
+                    {
+                        "name": "国際協力体制",
+                        "file": "international-cooperation"
+                    },
+                    {
+                        "name": "国際世界と特許",
+                        "file": "international-world-patent"
+                    },
+                    {
+                        "name": "ダイバーシティ促進",
+                        "file": "diversity-promotion"
+                    },
+                    {
+                        "name": "ビジネスと政治・経済",
+                        "file": "business-and-government-and-economy"
+                    },
+                    {
+                        "name": "人の流動と定着",
+                        "file": "human-transportation-and-living"
+                    },
+                    {
+                        "name": "マーケティング基礎",
+                        "file": "basic-marketing"
+                    }
+                ]
+            },
+            {
+                "name": "科学創発コア",
+                "subjects": [
+                    {
+                        "name": "IoT技術",
+                        "file": "IoT"
+                    },
+                    {
+                        "name": "社会的な視点から見る医療",
+                        "file": "medical-care-from-social-view"
+                    },
+                    {
+                        "name": "人工知能",
+                        "file": "AI"
+                    },
+                    {
+                        "name": "数理統計学基礎",
+                        "file": "basic-statistics"
+                    },
+                    {
+                        "name": "生命科学的な視点から見る医療",
+                        "file": "medical-care-from-life-science-view"
+                    },
+                    {
+                        "name": "世界変革技術論",
+                        "file": "change-the-world"
+                    },
+                    {
+                        "name": "世界の課題と技術トレンド",
+                        "file": "world-task-and-skill-trends"
+                    },
+                    {
+                        "name": "未来医科学",
+                        "file": "future-medical-science"
+                    }
+                ]
+            },
+            {
+                "name": "学知科目",
+                "subjects": [
+                    {
+                        "name": "SDGs実践",
+                        "file": "doing-SDGs"
+                    },
+                    {
+                        "name": "先端医学",
+                        "file": "pioneer-on-medicine"
+                    },
+                    {
+                        "name": "先導数学",
+                        "file": "leading-mathematics"
+                    },
+                    {
+                        "name": "データサイエンス実践",
+                        "file": "doing-data-science"
+                    },
+                    {
+                        "name": "プログラミングスキル",
+                        "file": "programming-skill"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ya": "3年次",
+        "cores": [
+            {
+                "name": "機械系",
+                "subjects": [
+                    {
+                        "name": "アプリ開発",
+                        "file": "create-application"
+                    },
+                    {
+                        "name": "機械学習",
+                        "file": "machine-learning"
+                    },
+                    {
+                        "name": "光学技術論",
+                        "file": "optical-technology"
+                    },
+                    {
+                        "name": "コンピュータとデジタル回路",
+                        "file": "computer-and-digital-circuit"
+                    },
+                    {
+                        "name": "コンピュータと電子回路",
+                        "file": "computer-and-electronic-circuit"
+                    },
+                    {
+                        "name": "情報ネットワーク",
+                        "file": "information-network"
+                    },
+                    {
+                        "name": "センシング論",
+                        "file": "sensering"
+                    },
+                    {
+                        "name": "データベース論",
+                        "file": "database"
+                    }
+                ]
+            },
+            {
+                "name": "医療系",
+                "subjects": [
+                    {
+                        "name": "AI・IoT健康福祉学",
+                        "file": "health-and-welfare-by-AI-and-IoT"
+                    },
+                    {
+                        "name": "医療制度改革と医療経済",
+                        "file": "medical-rule-innovation-and-medical-economics"
+                    },
+                    {
+                        "name": "地域包括ケアと地方創生",
+                        "file": "hole-care-and-restart"
+                    },
+                    {
+                        "name": "超高齢社会と科学技術",
+                        "file": "super-old-society-and-science-technology"
+                    },
+                    {
+                        "name": "テクノロジーと医療・健康・介護",
+                        "file": "technology-and-medical-care-health-and-nursing"
+                    },
+                    {
+                        "name": "フィジカル・ブレイン接続",
+                        "file": "physical-brain-connecting"
+                    },
+                    {
+                        "name": "プレシジョンメディシン",
+                        "file": "precision-medicine"
+                    },
+                    {
+                        "name": "未来型ヘルスケアシステム",
+                        "file": "future-health-care-system"
+                    },
+                    {
+                        "name": "レギュラトリーサイエンス",
+                        "file": "regulatory-science"
+                    }
+                ]
+            },
+            {
+                "name": "経営系",
+                "subjects": [
+                    {
+                        "name": "管理会計論",
+                        "file": "management-accounting"
+                    },
+                    {
+                        "name": "経営管理論",
+                        "file": "business-management"
+                    },
+                    {
+                        "name": "経営戦略論",
+                        "file": "corporate-strategy"
+                    },
+                    {
+                        "name": "公共政策論",
+                        "file": "public-policy"
+                    },
+                    {
+                        "name": "国際経営論",
+                        "file": "international-corporation"
+                    },
+                    {
+                        "name": "創業支援論",
+                        "file": "business-incubation"
+                    },
+                    {
+                        "name": "知的財産法",
+                        "file": "intellectual-property-law"
+                    },
+                    {
+                        "name": "プランニング最適化",
+                        "file": "planning-optimization"
+                    },
+                    {
+                        "name": "プロジェクト・マネジメント",
+                        "file": "project-management"
+                    }
+                ]
+            },
+            {
+                "name": "経済系",
+                "subjects": [
+                    {
+                        "name": "ESG投資",
+                        "file": "ESG-investment"
+                    },
+                    {
+                        "name": "イノベーション・マネジメント",
+                        "file": "innovation-management"
+                    },
+                    {
+                        "name": "需要予測",
+                        "file": "demand-forecasting"
+                    },
+                    {
+                        "name": "マーケティング論",
+                        "file": "marketing"
+                    }
+                ]
+            },   
+            {
+                "name": "社会系",
+                "subjects": [
+                    {
+                        "name": "環境基礎科学",
+                        "file": "basic-science-on-environment"
+                    },
+                    {
+                        "name": "心理学概論",
+                        "file": "general-psychology"
+                    },
+                    {
+                        "name": "生活環境学",
+                        "file": "living-environment"
+                    },
+                    {
+                        "name": "生活デザイン論",
+                        "file": "life-design"
+                    },
+                    {
+                        "name": "地域政策論",
+                        "file": "regional-revitalization"
+                    },
+                    {
+                        "name": "地球環境論",
+                        "file": "earth-environment"
+                    },
+                    {
+                        "name": "都市・交通デザイン",
+                        "file": "city-and-transport-design"
+                    },
+                    {
+                        "name": "比較制度論",
+                        "file": "comparative-systems"
+                    },
+                    {
+                        "name": "マテリアル科学",
+                        "file": "material-science"
+                    }
+                ]
+            }
+         ]
+    },
+    {
+        "ya": "4年次",
+        "cores": [
+            {
+                "name": "---",
+                "subjects": [
+                    {
+                        "name": "---",
+                        "file": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

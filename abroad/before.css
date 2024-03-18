@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(237, 247, 204);
+}
+p {
+    margin-left: 40px;
+    margin-right: auto;
+}
+h2 {
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
