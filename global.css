@@ -1,0 +1,86 @@
+body {
+    font-family: Arial;
+    background-color: rgb(237, 247, 204);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+header {
+    background-color: #96cb03;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    box-shadow: 10px 10px #aaaaaa;
+    padding: 10px 10px 10px 10px;
+}
+footer {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a.back {
+    background-color: #96cb03;
+    width: 100px;
+    box-shadow: 10px 10px #aaaaaa;
+    padding: 10px 10px 10px 10px;
+
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+a.back:hover {
+    background-color: #2a4d03;
+    color: white;
+    box-shadow: 10px 10px #444444;
+}
+
+a.gaiyo {
+    background-color: #cde68a;
+    width: 100px;
+    box-shadow: 10px 10px #aaaaaa;
+    padding: 10px 10px 10px 10px;
+
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+a.gaiyo:hover {
+    background-color: #2a4d03;
+    color: white;
+    box-shadow: 10px 10px #444444;
+}
+
+a, a:visited, a:hover, a:active {
+    color: inherit; /* 親要素から色を継承 */
+    text-decoration: none; /* 下線を消す */
+}
+/*記事*/
+article {
+    background-color: #cde68a;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px #aaaaaa;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 25px;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+article:hover {
+    background-color: #2a4d03;
+    color: white;
+    box-shadow: 10px 10px #444444;
+}
+
+.ay_intro-outer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.ay_intro-inner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
